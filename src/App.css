@@ -1,0 +1,35 @@
+.App {
+    text-align: center;
+  }
+  
+  .App-header {
+    background-color: #282c34;
+    padding: 20px;
+    color: rgb(255, 255, 255);
+  }
+  
+  form {
+    margin: 20px 0;
+  }
+  
+  input {
+    margin: 5px;
+    padding: 10px;
+  }
+  
+  table {
+    width: 80%;
+    margin: 20px auto;
+    border-collapse: collapse;
+  }
+  
+  table, th, td {
+    border: 1px solid black;
+  }
+  
+  td {
+    padding: 10px;
+    text-align: left;
+  }
+  
+ 
